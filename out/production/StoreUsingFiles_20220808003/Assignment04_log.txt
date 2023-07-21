@@ -1,0 +1,22 @@
+ERROR: Product 3012 not found.
+ERROR: Product 3012 not found.
+ERROR: Product 3012 not found.
+ERROR: Product 1234 not found.
+ERROR: Product 1234 not found.
+ERROR: Product 1234 not found.
+ERROR: Bread - 12 requested but only 10 remaining.
+ERROR: Product 1111 not found.
+ERROR: Product 1111 not found.
+ERROR: Product 1111 not found.
+ERROR: Product 2345 not found.
+ERROR: Product 2345 not found.
+ERROR: Invalid amount requested (-5)
+ERROR: Product 2345 not found.
+ERROR: Product 2222 not found.
+ERROR: Product 2222 not found.
+ERROR: Product 2222 not found.
+ERROR: Product 2222 not found.
+ERROR: Product 1234 not found.
+ERROR: Cola - 11 requested but only 8 remaining.
+ERROR: Product 1234 not found.
+ERROR: Product 1234 not found.
